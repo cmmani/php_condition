@@ -1,9 +1,9 @@
 //while<br>
 
 <?php
-$n=-1;
-while($n<=3){
-echo "$n<br/>";
+$m=-1;
+while($m<=3){
+echo "$m<br/>";
 $n++;
 }
 ?>
